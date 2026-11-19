@@ -1,0 +1,8 @@
+{
+  "name": "MeteoXert",
+  "description": "App meteorológica local para Xert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+

@@ -1,0 +1,23 @@
+Peñiscola PeñisMet
+c03m089e07
+
+Vinarós XocoMet
+c03m138e05
+
+Benicarló MeteoCaduf
+c03m027e06
+
+Alcalá de Xivert MeteoXivert
+c03m004e03
+
+Torreblanca MeteoBlanca
+c05m117e02
+
+Càlig MeteoCálig
+c03m034e01
+
+Cervera del Maestre MeteoCervera
+c03m044e01
+
+Xert XertMet
+c03m052e02
